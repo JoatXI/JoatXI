@@ -1,5 +1,5 @@
 # 💫 About Me:
-🌱 I’m currently learning the C programming language.<br>💬 Ask me about building a PC 🙂<br>⚡ Fun fact: My alias JoatXI is an acronym (JOAT: Jack Of All Trades) && the XI  is Roman numeral 11 which was or is my favourite number 😒
+🌱 I’m currently learning the C programming language.<br>💬 Ask me about building a PC 🙂
 
 
 ## 🌐 Socials:
