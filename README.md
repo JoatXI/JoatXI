@@ -1,10 +1,6 @@
 # 💫 About Me:
 🌱 I’m currently learning the C programming language.<br>💬 Ask me about building a PC 🙂
 
-
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/JoatXI) 
-
 # 💻 Tech Stack:
 
 Languages<br>
